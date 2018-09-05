@@ -1,0 +1,6 @@
+git branch | grep -ve " master$" | xargs git branch -D
+
+7939-224732-351970-84433
+
+binh.nx+1@workhouse.me
+12345678

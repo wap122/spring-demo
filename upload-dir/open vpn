@@ -1,0 +1,1 @@
+sudo openvpn --config /home/minh/Downloads/dmm-auto-openvpn.ovpn
